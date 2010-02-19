@@ -28,6 +28,7 @@ To-Do
 
 - Write documentation for the engine (VERY IMPORTANT!)
 - Make sure public interface is easy to use...some parts need to much digging into
+- more accurate collision detection
 
 ==========================
 Rudimentary File Structure
