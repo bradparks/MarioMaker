@@ -1,0 +1,33 @@
+<config>
+	<tile id="1" src="images/bg.png" type="background" />
+	<tile id="2" src="images/brick.png" type="brick" />
+	<tile id="3" src="images/bush1_1.gif" type="background" />
+	<tile id="4" src="images/bush1_2.gif" type="background" />
+	<tile id="5" src="images/bush1_3.gif" type="background" />
+	<tile id="6" src="images/bush2_l.gif" type="background" />
+	<tile id="7" src="images/bush2_d.gif" type="background" />
+	<tile id="8" src="images/bush2_u.gif" type="background" />
+	<tile id="9" src="images/bush2_r.gif" type="background" />
+	<tile id="10" src="images/cloud.png" type="background" />
+	<tile id="11" src="images/ground.png" type="wall" />
+	<tile id="12" src="images/pipe_bottom_left.gif" type="wall" />
+	<tile id="13" src="images/pipe_bottom_right.gif" type="wall" />
+	<tile id="14" src="images/pipe_top_left.gif" type="wall" />
+	<tile id="15" src="images/pipe_top_right.gif" type="wall" />
+	<tile id="16" src="images/tree1_1.gif" type="background" />
+	<tile id="17" src="images/tree1_2.gif" type="background" />
+	<tile id="18" src="images/tree1_3.gif" type="background" />
+	<tile id="19" src="images/tree2_1.gif" type="background" />
+	<tile id="20" src="images/tree2_2.gif" type="background" />
+	<tile id="21" src="images/tree2_3.gif" type="background" />
+	<tile id="22" src="images/coin.gif" type="coin" />
+	<tile id="23" src="images/shell.gif" type="dumb_enemy" />
+	<tile id="24" src="images/goomba01.gif" type="goomba" />
+	<tile id="25" src="images/coin_block.gif" type="coin_block" />
+	<tile id="26" src="images/block.gif" type="wall" />
+	<tile id="27" src="images/flag_left.gif" type="end" />
+	<tile id="28" src="images/flag_top.gif" type="end" />
+	<tile id="29" src="images/flag_bottom.gif" type="end" />
+	<tile id="30" src="images/flag_stand.gif" type="end" />
+	<tile id="31" src="images/koopa.gif" type="dumb_enemy" />
+</config>

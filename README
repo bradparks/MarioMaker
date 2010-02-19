@@ -1,0 +1,54 @@
+====================================
+MarioMaker - AS3 Sidescroller Engine
+====================================
+
+This is a tile-based engine written in Actionscript 3. It is written to be easily customizable and extendable.
+
+==============
+Current Status
+==============
+
+Pre-Alpha: Currently being developed. Feel free to join in and help out!
+
+
+========
+Features
+========
+
+MarioMaker is being written to create substantial, middle-weight games. It features:
+
+* Object-Oriented engine for easy modifications and additions
+* Graphics caching for fast loading
+* Visual editor for creating levels
+* Working demo of a Mario clone
+
+=====
+To-Do
+=====
+
+- Write documentation for the engine (VERY IMPORTANT!)
+- Make sure public interface is easy to use...some parts need to much digging into
+
+==========================
+Rudimentary File Structure
+==========================
+
+Character.as: the player's character
+Scene.as:     creates each scene/level
+Tile.as:      basic functions for each tile. Other tiles
+              (CoinBlock.as, Goomba.as) inherit from this.
+config.xml:   tile configuration
+main.as:      runs the game
+
+
+=======
+Credits
+=======
+
+MarioMaker copyleft 2010 Aditya Bhargava
+wefoundland.com
+Licensed under the LGPL.
+
+TweenLite copyright 2010 GreenSock, Inc.
+greensock.com
+GreenSock terms of use: http://www.greensock.com/terms_of_use.html

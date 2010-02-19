@@ -1,0 +1,2 @@
+clearContainer();
+loadLevelCleared();
