@@ -29,6 +29,9 @@ To-Do
 - Write documentation for the engine (VERY IMPORTANT!)
 - Make sure public interface is easy to use...some parts need to much digging into
 - more accurate collision detection
+- add a frame counter to test performance
+- bigger window
+- multidirectional scrolling
 
 ==========================
 Rudimentary File Structure
